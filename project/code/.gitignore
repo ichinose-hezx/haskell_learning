@@ -1,0 +1,14 @@
+dist/
+dist-newstyle/
+.stack-work/
+*.o
+*.hi
+*.p_o
+*.p_hi
+*.so
+*.dylib
+*.dll
+*.exe
+.cabal-sandbox/
+cabal.sandbox.config
+.stack-work

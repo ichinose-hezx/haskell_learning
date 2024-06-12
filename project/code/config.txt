@@ -1,0 +1,7 @@
+InputImagePath=input.png
+OutputImagePath=output.png
+Function1=convolve([[1/9, 1/9, 1/9], [1/9, 1/9, 1/9], [1/9, 1/9, 1/9]])
+Function2=adjustBrightness(50)
+Function3=adjustContrast(1.2)
+Function4=adjustGamma(0.8)
+Function5=denoise

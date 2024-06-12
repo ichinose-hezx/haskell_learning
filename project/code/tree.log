@@ -1,0 +1,23 @@
+.
+├── ImageProcessing
+│   ├── Brightness.hs
+│   ├── Contrast.hs
+│   ├── Convolution.hs
+│   ├── Gamma.hs
+│   ├── Helpers.hs
+│   └── MedianFilter.hs
+├── config.txt
+├── dist-newstyle
+├── image-processing.cabal
+├── input
+│   └── kodim15.png
+├── ip.hs
+├── makefile
+├── output
+│   └── output_image.png
+├── src
+│   ├── GUI.hs
+│   └── Main.hs
+└── tree.log
+
+8 directories, 15 files
